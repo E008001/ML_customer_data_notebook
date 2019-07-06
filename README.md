@@ -17,6 +17,6 @@ The dataset includes data from 89973 customer with 10 features
 ## The Problem  
 
  Given a number of elements of customers of a store with certain features, we want to build a machine learning model to identify that  
- who responce to the Advertising Campaign accourding to the "class" column.  
+ who response to the Advertising Campaign according to the "class" column.  
    
-   To solve the problem we will have to analyse the data, do any required chaneged, normalisation, apply a machine learning algorithm, train a model, check the performance of the trained model and iterate with other algorithms until we find the best model.  
+   To solve the problem we will have to analyses the data, do any required changed, normalisation, apply a machine learning algorithm, train a model, check the performance of the trained model and iterate with other algorithms until we find the best model.  
