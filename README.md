@@ -13,3 +13,8 @@ The dataset includes data from 89973 customer with 10 feature
 8- Last Buy Amount  
 9- Buy Amount Average  
 10- class  
+
+## the Problem  
+
+ Given a number of elements of customers of a store with certain features, we want to build a machine learning model to identify that  
+ who responce to the Advertising Campaign
