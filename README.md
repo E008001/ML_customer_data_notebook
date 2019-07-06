@@ -1,7 +1,7 @@
 # ML_customer_data_notebook
 
 * [python codes for costumer data set](https://github.com/E008001/ML_customer_data_notebook/blob/master/customer-one-hot.ipynb)
-# Dataset  
+## Dataset  
 The dataset includes data from 89973 customer with 10 features  
 1-Customer income  
 2-First Buy Data  
@@ -14,7 +14,7 @@ The dataset includes data from 89973 customer with 10 features
 9- Buy Amount Average  
 10- class  
 
-## the Problem  
+## The Problem  
 
  Given a number of elements of customers of a store with certain features, we want to build a machine learning model to identify that  
  who responce to the Advertising Campaign accourding to the "class" column.  
