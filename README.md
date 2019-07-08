@@ -20,3 +20,4 @@ The dataset includes data from 89973 customer with 10 features
  who response to the Advertising Campaign according to the "class" column.  
    
    To solve the problem we will have to analyses the data, do any required changed, normalisation, apply a machine learning algorithm, train a model, check the performance of the trained model and iterate with other algorithms until we find the best model.  
+* [python codes for costumer dataset-sahhay](http://www.sahhay.com/)
